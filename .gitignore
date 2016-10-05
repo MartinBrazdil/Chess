@@ -1,0 +1,5 @@
+latex/
+Doxyfile
+chess.tar.gz
+*.o
+chess
